@@ -1,0 +1,16 @@
+{
+  "name": "todolist",
+  "version": "1.0.0",
+  "description": "it will add things in your list",
+  "main": "index.js",
+  "type": "module",
+  "bin": "list.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "fatima mudassir",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^9.2.17"
+  }
+}
